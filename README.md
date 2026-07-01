@@ -16,7 +16,7 @@ This project demonstrates a basic LED Blinking System simulated using an Arduino
 
 | Component / LED | Arduino Pin | Description |
 |-----------------|-------------|-------------|
-| **LED-GREEN (D1)** | D13 | Output Signal (Automatically blinks with 1000ms delay) |
+| **LED-GREEN (D1)** | D12 | Output Signal (Automatically blinks with 1000ms delay) |
 
 *Note: The cathode terminal of the LED-GREEN (D1) is connected directly to the common Ground (GND).*
 
